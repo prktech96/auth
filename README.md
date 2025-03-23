@@ -1,4 +1,4 @@
-# auth
+# basic auth 
 Step 1 Registration
 curl --location 'http://localhost:8080/register' \
 --header 'Content-Type: application/json' \
