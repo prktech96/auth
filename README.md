@@ -8,6 +8,7 @@ curl --location 'http://localhost:8080/register' \
     "userName":"rk",
     "password":"rk"
 }'
+
 Response:
 {
     "id": 2,
